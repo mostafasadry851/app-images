@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "title": "تهذيب الأحكام",
+    "author": "الشيخ الطوسي",
+    "folder": "tahdhib",
+    "parts": 10,
+    "category": "حديث"
+  },
+  {
+    "id": 2,
+    "title": "بحار الأنوار",
+    "author": "العلامة المجلسي",
+    "folder": "bihar",
+    "parts": 110,
+    "category": "حديث"
+  },
+  {
+    "id": 3,
+    "title": "الكافي للشيخ الكليني",
+    "author": "الشيخ الكليني",
+    "folder": "alkafi",
+    "parts": 8,
+    "category": "حديث"
+  },
+  {
+    "id": 4,
+    "title": "من لا يحضره الفقيه",
+    "author": "الشيخ الصدوق",
+    "folder": "man_la_yahdoro",
+    "parts": 4,
+    "category": "فقه"
+  },
+  {
+    "id": 5,
+    "title": "الإستبصار",
+    "author": "الشيخ الطوسي",
+    "folder": "estebsar",
+    "parts": 4,
+    "category": "حديث"
+  },
+  {
+    "id": 6,
+    "title": "جامع السعادات",
+    "author": "الشيخ النراقي",
+    "folder": "jame_al_saadat",
+    "parts": 3,
+    "category": "أخلاق"
+  },
+  {
+    "id": 7,
+    "title": "وسائل الشيعة",
+    "author": "الحر العاملي",
+    "folder": "wasael",
+    "parts": 30,
+    "category": "فقه"
+  },
+  {
+    "id": 8,
+    "title": "الميزان في تفسير القرآن",
+    "author": "العلامة الطباطبائي",
+    "folder": "mezann",
+    "parts": 20,
+    "category": "تفسير"
+  }
+]
