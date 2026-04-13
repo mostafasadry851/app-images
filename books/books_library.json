@@ -62,5 +62,13 @@
     "folder": "mezann",
     "parts": 20,
     "category": "تفسير"
+  },
+  {
+    "id": 9,
+    "title": "مجمع البيان",
+    "author": "الشيخ الطبرسي",
+    "folder": "majma3_bean",
+    "parts": 10,
+    "category": "تفسير"
   }
 ]
