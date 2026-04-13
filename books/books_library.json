@@ -5,7 +5,7 @@
     "author": "الشيخ الطوسي",
     "folder": "tahdhib",
     "parts": 10,
-    "category": "حديث"
+    "category": "الحديث"
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "author": "العلامة المجلسي",
     "folder": "bihar",
     "parts": 110,
-    "category": "حديث"
+    "category": "الحديث"
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "author": "الشيخ الكليني",
     "folder": "alkafi",
     "parts": 8,
-    "category": "حديث"
+    "category": "الحديث"
   },
   {
     "id": 4,
@@ -29,7 +29,7 @@
     "author": "الشيخ الصدوق",
     "folder": "man_la_yahdoro",
     "parts": 4,
-    "category": "فقه"
+    "category": "الفقه"
   },
   {
     "id": 5,
@@ -37,7 +37,7 @@
     "author": "الشيخ الطوسي",
     "folder": "estebsar",
     "parts": 4,
-    "category": "حديث"
+    "category": "الحديث"
   },
   {
     "id": 6,
@@ -45,7 +45,7 @@
     "author": "الشيخ النراقي",
     "folder": "jame_al_saadat",
     "parts": 3,
-    "category": "أخلاق"
+    "category": "الأخلاق"
   },
   {
     "id": 7,
@@ -53,7 +53,7 @@
     "author": "الحر العاملي",
     "folder": "wasael",
     "parts": 30,
-    "category": "فقه"
+    "category": "الفقه"
   },
   {
     "id": 8,
@@ -61,7 +61,7 @@
     "author": "العلامة الطباطبائي",
     "folder": "mezann",
     "parts": 20,
-    "category": "تفسير"
+    "category": "التفسير"
   },
   {
     "id": 9,
@@ -69,6 +69,198 @@
     "author": "الشيخ الطبرسي",
     "folder": "majma3_bean",
     "parts": 10,
-    "category": "تفسير"
-  }
+    "category": "التفسير"
+   },
+ {
+    "id": 10,
+    "title": "علل الشرائع",
+    "author": "الشيخ الصدوق",
+    "folder": "3elal_sharaea3",
+    "parts": 2,
+    "category": "الحديث"
+   },
+ {
+    "id": 11,
+    "title": "عيون أخبار الرضا",
+    "author": "الشيخ الصدوق",
+    "folder": "aeon_akhbar_redaa",
+    "parts": 2,
+    "category": "الحديث"
+   },
+ {
+    "id": 12,
+    "title": "الباب الحادي عشر",
+    "author": "العلامة الحلي",
+    "folder": "albab_hade",
+    "parts": 1,
+    "category": "العقائد"
+   },
+ {
+    "id": 13,
+    "title": "البلد الأمين",
+    "author": "الشيخ الكفعمي",
+    "folder": "albald_amen",
+    "parts": 1,
+    "category": "الدعاء والزيارة"
+   },
+ {
+    "id": 14,
+    "title": "اللهوف في قتلى الطفوف",
+    "author": "السيد ابن طاووس",
+    "folder": "alehuuf_tufoof",
+    "parts": 1,
+    "category": "التاريخ"
+   },
+ {
+    "id": 15,
+    "title": "الخصال",
+    "author": "الشيخ الصدوق",
+    "folder": "alkhesall",
+    "parts": 1,
+    "category": "الحديث"
+   },
+ {
+    "id": 16,
+    "title": "موسوعة الغدير",
+    "author": "الشيخ الأميني",
+    "folder": "alqadeer",
+    "parts": 11,
+    "category": "الحديث"
+   },
+ {
+    "id": 17,
+    "title": "الأمالي للصدوق",
+    "author": "الشيخ الصدوق",
+    "folder": "amale_saduq",
+    "parts": 1,
+    "category": "الحديث"
+   },
+ {
+    "id": 18,
+    "title": "أوائل المقالات",
+    "author": "الشيخ المفيد",
+    "folder": "awal_mqalat",
+    "parts": 1,
+    "category": "العقائد"
+   },
+ {
+    "id": 19,
+    "title": "بصائر الدرجات",
+    "author": "محمد بن الحسن الصفار",
+    "folder": "bsaear_dargat",
+    "parts": 1,
+    "category": "الحديث"
+   },
+ {
+    "id": 20,
+    "title": "الإعتقادات",
+    "author": "الشيخ الصدوق",
+    "folder": "ea3tqadat",
+    "parts": 1,
+    "category": "العقائد"
+   },
+ {
+    "id": 21,
+    "title": "إقبال الأعمال",
+    "author": "السيد ابن طاووس",
+    "folder": "eqbal_a3mal",
+    "parts": 3,
+    "category": "الدعاء والزيارة"
+   },
+ {
+    "id": 22,
+    "title": "الإرشاد",
+    "author": "الشيخ المفيد",
+    "folder": "ershadd",
+    "parts": 2,
+    "category": "الحديث"
+   },
+ {
+    "id": 23,
+    "title": "فرائد الأصول",
+    "author": "الشيخ مرتضى الأنصاري",
+    "folder": "faraeed_asol",
+    "parts": 4,
+    "category": "أصول الفقه"
+   },
+ {
+    "id": 24,
+    "title": "كشف الغمة في معرفة الأئمة",
+    "author": "بهاء الدين الإربلي",
+    "folder": "kashef_guma",
+    "parts": 3,
+    "category": "السيرة"
+   },
+ {
+    "id": 25,
+    "title": "كشف المراد في شرح تجريد الاعتقاد",
+    "author": "العلامة الحلي",
+    "folder": "kashf_morad",
+    "parts": 1,
+    "category": "العقائد"
+   },
+ {
+    "id": 26,
+    "title": "معاني الأخبار",
+    "author": "الشيخ الصدوق",
+    "folder": "ma3any_akhbar",
+    "parts": 1,
+    "category": "الحديث"
+   },
+ {
+    "id": 27,
+    "title": "مقاتل الطالبيين",
+    "author": "أبي الفرج الأصفهاني",
+    "folder": "maqatel_talben",
+    "parts": 1,
+    "category": "التاريخ"
+   },
+ {
+    "id": 28,
+    "title": "المكاسب",
+    "author": "الشيخ مرتضى الأنصاري",
+    "folder": "mkaseeb_ansary",
+    "parts": 6,
+    "category": "الفقه"
+   },
+ {
+    "id": 29,
+    "title": "مصباح المتهجد",
+    "author": "الشيخ الطوسي",
+    "folder": "musbah_muhtahed",
+    "parts": 1,
+    "category": "الدعاء والزيارة"
+   },
+ {
+    "id": 30,
+    "title": "شرائع الإسلام",
+    "author": "المحقق الحلي",
+    "folder": "sharae3_islam",
+    "parts": 4,
+    "category": "الفقه"
+   },
+ {
+    "id": 31,
+    "title": "تصحيح الاعتقاد",
+    "author": "الشيخ المفيد",
+    "folder": "tasheh_ae3tqadat",
+    "parts": 1,
+    "category": "العقائد"
+   },
+ {
+    "id": 32,
+    "title": "التوحيد",
+    "author": "الشيخ الصدوق",
+    "folder": "tawhed",
+    "parts": 1,
+    "category": "العقائد"
+   },
+ {
+    "id": 33,
+    "title": "ثواب الأعمال وعقاب الأعمال",
+    "author": "الشيخ الصدوق",
+    "folder": "thawab_a3mal",
+    "parts": 1,
+    "category": "الحديث"
+   }
 ]
