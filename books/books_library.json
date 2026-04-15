@@ -262,5 +262,509 @@
     "folder": "thawab_a3mal",
     "parts": 1,
     "category": "الحديث"
+   },
+  {
+    "id": 34,
+    "title": "عدة الداعي ونجاح الساعي",
+    "author": "ابن فهد الحلي",
+    "folder": "3wdat_da3e_sa3e",
+    "parts": 1,
+    "category": "الحديث"
+   },
+{
+    "id": 35,
+    "title": "أعلام الدين في صفات المؤمنين",
+    "author": "الحسن بن محمد الديلمي",
+    "folder": "a3lam_deen_sfat",
+    "parts": 1,
+    "category": "الأخلاق"
+   },
+{
+    "id": 36,
+    "title": "إعلام الورى بأعلام الهدى",
+    "author": "الشيخ الطبرسي",
+    "folder": "a3lam_waraa_huda",
+    "parts": 2,
+    "category": "السيرة"
+   },
+{
+    "id": 37,
+    "title": "الياقوت في علم الكلام",
+    "author": "ابو اسحاق ابراهيم بن نوبخت",
+    "folder": "aleaqut_kalam",
+    "parts": 1,
+    "category": "العقائد"
+   },
+{
+    "id": 38,
+    "title": "الخلاف",
+    "author": "الشيخ الطوسي",
+    "folder": "alkhlaaf",
+    "parts": 6,
+    "category": "الفقه"
+   },
+{
+    "id": 39,
+    "title": "المبسوط",
+    "author": "الشيخ الطوسي",
+    "folder": "almabsuot",
+    "parts": 8,
+    "category": "الفقه"
+   },
+{
+    "id": 40,
+    "title": "المحاسن",
+    "author": "أحمد بن محمد بن خالد البرقي",
+    "folder": "almahaseen",
+    "parts": 2,
+    "category": "الحديث"
+   },
+{
+    "id": 41,
+    "title": "المناقب",
+    "author": "ابن شهر آشوب",
+    "folder": "almanaqeb",
+    "parts": 4,
+    "category": "السيرة"
+   },
+{
+    "id": 42,
+    "title": "المهذب",
+    "author": "القاضي ابن البراج",
+    "folder": "almuhatheb",
+    "parts": 2,
+    "category": "الفقه"
+   },
+{
+    "id": 43,
+    "title": "المقنعة",
+    "author": "لشيخ المفيد",
+    "folder": "almuqan3a",
+    "parts": 1,
+    "category": "الفقه"
+   },
+{
+    "id": 44,
+    "title": "النهاية ونكتها",
+    "author": "الشيخ الطوسي – المحقق الحلي",
+    "folder": "alnhaea_wa_nktha",
+    "parts": 3,
+    "category": "الفقه"
+   },
+{
+    "id": 45,
+    "title": "العدة في أصول الفقه",
+    "author": "الشيخ الطوسي",
+    "folder": "aluda_fe_asol_faqh",
+    "parts": 2,
+    "category": "أصول الفقه"
+   },
+{
+    "id": 46,
+    "title": "الوسيلة",
+    "author": "ابن حمزة الطوسي",
+    "folder": "alwaseela",
+    "parts": 1,
+    "category": "الفقه"
+   },
+{
+    "id": 47,
+    "title": "الأمالي للشيخ المفيد",
+    "author": "الشيخ المفيد",
+    "folder": "amale_mufed",
+    "parts": 1,
+    "category": "الحديث"
+   },
+{
+    "id": 48,
+    "title": "الأمالي للطوسي",
+    "author": "الشيخ الطوسي",
+    "folder": "amale_tussy",
+    "parts": 1,
+    "category": "الحديث"
+   },
+{
+    "id": 49,
+    "title": "البيان",
+    "author": "الشهيد الأول",
+    "folder": "baeaaan",
+    "parts": 1,
+    "category": "الفقه"
+   },
+{
+    "id": 50,
+    "title": "دلائل الإمامة",
+    "author": "محمد بن جرير الطبري",
+    "folder": "dalael_imama",
+    "parts": 1,
+    "category": "الحديث"
+   },
+{
+    "id": 51,
+    "title": "الدروس الشرعية في فقه الإمامية",
+    "author": "الشهيد الأول",
+    "folder": "duruus_shara3_imam",
+    "parts": 3,
+    "category": "الفقه"
+   },
+{
+    "id": 52,
+    "title": "الاحتجاج",
+    "author": "أحمد بن علي الطبرسي",
+    "folder": "eahtgajj",
+    "parts": 2,
+    "category": "الحديث"
+   },
+{
+    "id": 53,
+    "title": "الانتصار",
+    "author": "الشريف المرتضى",
+    "folder": "entttsar",
+    "parts": 1,
+    "category": "الفقه"
+   },
+{
+    "id": 54,
+    "title": "الاقتصاد",
+    "author": "الشيخ الطوسي",
+    "folder": "eqtsssad",
+    "parts": 1,
+    "category": "الفقه"
+   },
+{
+    "id": 55,
+    "title": "إرشاد الأذهان",
+    "author": "العلامة الحلي",
+    "folder": "ershad_adhan",
+    "parts": 2,
+    "category": "الفقه"
+   },
+{
+    "id": 56,
+    "title": "إرشاد القلوب",
+    "author": "الحسن بن محمد الديلمي",
+    "folder": "ershad_koloob",
+    "parts": 2,
+    "category": "السيرة"
+   },
+{
+    "id": 57,
+    "title": "فرق الشيعة",
+    "author": "حسن بن موسى النوبختي",
+    "folder": "faraq_shia",
+    "parts": 1,
+    "category": "الفرق والمذاهب"
+   },
+{
+    "id": 58,
+    "title": "غنية النزوع",
+    "author": "ابن زهرة الحلبي",
+    "folder": "ganeat_nzuu3",
+    "parts": 1,
+    "category": "الفقه"
+   },
+{
+    "id": 59,
+    "title": "قرب الاسناد",
+    "author": "الحميري القمي",
+    "folder": "gurab_isnad",
+    "parts": 1,
+    "category": "الحديث"
+   },
+{
+    "id": 60,
+    "title": "جمل العلم والعمل",
+    "author": "الشريف المرتضى",
+    "folder": "jumal_3alm_aml",
+    "parts": 1,
+    "category": "الفقه"
+   },
+{
+    "id": 61,
+    "title": "الكافي في الفقه",
+    "author": "أبو الصلاح الحلبي",
+    "folder": "kafe_fe_faqh",
+    "parts": 1,
+    "category": "الفقه"
+   },
+{
+    "id": 62,
+    "title": "كامل الزيارات",
+    "author": "جعفر بن محمد بن قولويه",
+    "folder": "kamel_zearat",
+    "parts": 1,
+    "category": "الحديث"
+   },
+{
+    "id": 63,
+    "title": "كشف الريبة عن أحكام الغيبة",
+    "author": "الشهيد الثاني",
+    "folder": "kashef_reba_geba",
+    "parts": 1,
+    "category": "الفقه"
+   },
+{
+    "id": 64,
+    "title": "كتاب المقالات والفرق",
+    "author": "أبي خلف سعد الأشعري القمي",
+    "folder": "katab_maqalat_wfarq",
+    "parts": 1,
+    "category": "العقائد"
+   },
+{
+    "id": 65,
+    "title": "كتاب سليم بن قيس الهلالي",
+    "author": "سليم بن قيس الهلالي الكوفي",
+    "folder": "katab_salim_qaes",
+    "parts": 1,
+    "category": "التاريخ"
+   },
+{
+    "id": 66,
+    "title": "قواعد الأحكام",
+    "author": "العلامة الحلي",
+    "folder": "kua3ed_ahkam",
+    "parts": 3,
+    "category": "الفقه"
+   },
+{
+    "id": 67,
+    "title": "اللمعة الدمشقية",
+    "author": "الشهيد الأول",
+    "folder": "lum3a_dmashq",
+    "parts": 1,
+    "category": "الفقه"
+   },
+{
+    "id": 68,
+    "title": "مقتل الحسين عليه السلام",
+    "author": "أبو مخنف الأزدي",
+    "folder": "maqtal_huseen",
+    "parts": 1,
+    "category": "السيرة"
+   },
+{
+    "id": 69,
+    "title": "مبادي الوصول إلى علم الأصول",
+    "author": "العلامة الحلي",
+    "folder": "mbadea_wasol_asol",
+    "parts": 1,
+    "category": "أصول الفقه"
+   },
+{
+    "id": 70,
+    "title": "مكارم الأخلاق",
+    "author": "حسن بن الفضل الطبرسي",
+    "folder": "mkarem_ikhlaq",
+    "parts": 1,
+    "category": "الأخلاق"
+   },
+{
+    "id": 71,
+    "title": "مناقب آل أبي طالب",
+    "author": "ابن شهر آشوب",
+    "folder": "mnaqeb_al_taleb",
+    "parts": 3,
+    "category": "الحديث"
+   },
+{
+    "id": 72,
+    "title": "متشابه القرآن ومختلفه",
+    "author": "ابن شهر آشوب",
+    "folder": "mtshabeh_quran",
+    "parts": 2,
+    "category": "التفسير"
+   },
+{
+    "id": 73,
+    "title": "مختلف الشيعة",
+    "author": "العلامة الحلي",
+    "folder": "mukhtlaf_shia",
+    "parts": 9,
+    "category": "الفقه"
+   },
+{
+    "id": 74,
+    "title": "منية المريد",
+    "author": "الشهيد الثاني",
+    "folder": "muneat_mured",
+    "parts": 1,
+    "category": "الحديث"
+   },
+{
+    "id": 75,
+    "title": "منتهى المطلب ",
+    "author": "العلامة الحلي",
+    "folder": "muntaha_mtlab",
+    "parts": 15,
+    "category": "الفقه"
+   },
+{
+    "id": 76,
+    "title": "المختصر النافع",
+    "author": "المحقق الحلي",
+    "folder": "muqtaser_nafe3",
+    "parts": 1,
+    "category": "الفقه"
+   },
+{
+    "id": 77,
+    "title": "النهاية في مجرد الفقه والفتاوى",
+    "author": "الشيخ الطوسي",
+    "folder": "nahaea_fe_mjrd_faqh",
+    "parts": 1,
+    "category": "الفقه"
+   },
+{
+    "id": 78,
+    "title": "نهج الحق وكشف الصدق",
+    "author": "العلامة الحلي",
+    "folder": "nahj_hq_sadq",
+    "parts": 1,
+    "category": "العقائد"
+   },
+{
+    "id": 79,
+    "title": "نهاية الوصول الى علم الأصول",
+    "author": "العلامة الحلي",
+    "folder": "nhaeet_wassol_asol",
+    "parts": 5,
+    "category": "أصول الفقه"
+   },
+{
+    "id": 80,
+    "title": "الغيبة لابن أبي زينب النعماني",
+    "author": "ابن أبي زينب النعماني",
+    "folder": "qaeba_nu3many",
+    "parts": 1,
+    "category": "الحديث"
+   },
+{
+    "id": 81,
+    "title": "الغيبة للطوسي",
+    "author": "الشيخ الطوسي",
+    "folder": "qaeba_tusy",
+    "parts": 1,
+    "category": "الحديث"
+   },
+{
+    "id": 82,
+    "title": "روضة الواعظين",
+    "author": "الفتال النيسابوري",
+    "folder": "rawthat_alwa3then",
+    "parts": 1,
+    "category": "الحديث"
+   },
+{
+    "id": 83,
+    "title": "السرائر",
+    "author": "ابن إدريس الحلي",
+    "folder": "sarraeer",
+    "parts": 3,
+    "category": "الفقه"
+   },
+{
+    "id": 84,
+    "title": "الشافي في الإمامة ",
+    "author": "الشريف المرتضى",
+    "folder": "shafe_fe_imama",
+    "parts": 4,
+    "category": "العقائد"
+   },
+{
+    "id": 85,
+    "title": "تفسير العياشي",
+    "author": "محمد بن مسعود العياشي",
+    "folder": "tafseer_aeashe",
+    "parts": 2,
+    "category": "التفسير"
+   },
+{
+    "id": 86,
+    "title": "تفسير القمي",
+    "author": "علي بن إبراهيم القمي",
+    "folder": "tafser_alqume",
+    "parts": 2,
+    "category": "التفسير"
+   },
+{
+    "id": 87,
+    "title": "تفسير جوامع الجامع",
+    "author": "الشيخ الطبرسي",
+    "folder": "tafser_juame3_aljuame3",
+    "parts": 3,
+    "category": "التفسير"
+   },
+{
+    "id": 88,
+    "title": "تحرير الأحكام",
+    "author": "العلامة الحلي",
+    "folder": "tahrer_alahkam",
+    "parts": 5,
+    "category": "الفقه"
+   },
+{
+    "id": 89,
+    "title": "تهذيب الوصول إلى علم الأصول",
+    "author": "العلامة الحلي",
+    "folder": "tahtheb_wasol_asol",
+    "parts": 1,
+    "category": "أصول الفقه"
+   },
+{
+    "id": 90,
+    "title": "تحف العقول عن آل الرسول",
+    "author": "ابن شعبة الحراني",
+    "folder": "tahuf_aokol_rasul",
+    "parts": 1,
+    "category": "الحديث"
+   },
+{
+    "id": 91,
+    "title": "تلخيص الشافي",
+    "author": "الشيخ الطوسي",
+    "folder": "talkhes_alshafy",
+    "parts": 4,
+    "category": "العقائد"
+   },
+{
+    "id": 92,
+    "title": "تنبيه الخواطر ونزهة النواظر",
+    "author": "ورام بن أبي فراس المالكي الاشتري",
+    "folder": "tanbeh_khwater_nuather",
+    "parts": 2,
+    "category": "الأخلاق"
+   },
+{
+    "id": 93,
+    "title": "تنزيه الأنبياء",
+    "author": "الشريف المرتضى",
+    "folder": "tanzeh_anbeaa",
+    "parts": 1,
+    "category": "العقائد"
+   },
+{
+    "id": 94,
+    "title": "تذكرة الفقهاء",
+    "author": "العلامة الحلي",
+    "folder": "tathkrat_fukahah",
+    "parts": 22,
+    "category": "الفقه"
+   },
+{
+    "id": 95,
+    "title": "الذريعة إلى أصول الشريعة",
+    "author": "الشريف المرتضى",
+    "folder": "thra3a_shre3a",
+    "parts": 2,
+    "category": "أصول الفقه"
+   },
+{
+    "id": 96,
+    "title": "التبيان في تفسير القرآن",
+    "author": "الشيخ الطوسي",
+    "folder": "tubeaan_quraan",
+    "parts": 10,
+    "category": "التفسير"
    }
 ]
