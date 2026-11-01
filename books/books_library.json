@@ -1486,5 +1486,85 @@
 "folder": "lialy_beshawr",
 "parts": 1,
 "category": "العقائد"
-}  
+},
+{
+        "id": 187,
+        "title": "العرفان الشيعي",
+        "author": "السيد كمال الحيدري",
+        "folder": "3orfan_shia",
+        "parts": 1,
+        "category": "الأخلاق والعرفان"
+    },
+    {
+        "id": 188,
+        "title": "أعيان الشيعة",
+        "author": "السيد محسن الأمين",
+        "folder": "a3ean_shia",
+        "parts": 10,
+        "category": "مصادر التاريخ"
+    },
+    {
+        "id": 189,
+        "title": "القصص العجيبة",
+        "author": "السيد عبد الحسين دستغيب",
+        "folder": "alkases_al3ajiba",
+        "parts": 1,
+        "category": "الأخلاق والعرفان"
+    },
+    {
+        "id": 190,
+        "title": "الإمام الصادق",
+        "author": "محمد حسن المظفر",
+        "folder": "imam_sadiq",
+        "parts": 2,
+        "category": "السيرة"
+    },
+    {
+        "id": 191,
+        "title": "موسوعة أحاديث أهل البيت",
+        "author": "الشيخ هادي النجفي",
+        "folder": "maoso3a_hadith_ahl_bait",
+        "parts": 12,
+        "category": "الحديث"
+    },
+    {
+        "id": 192,
+        "title": "مرآة العقول",
+        "author": "العلامة المجلسي",
+        "folder": "morat_3oqol",
+        "parts": 26,
+        "category": "الحديث"
+    },
+    {
+        "id": 193,
+        "title": "مراتب السير والسلوك إلى الله",
+        "author": "السيد كمال الحيدري",
+        "folder": "mrateb_sear",
+        "parts": 1,
+        "category": "الأخلاق والعرفان"
+    },
+    {
+        "id": 194,
+        "title": "غرر الحكم ودرر الكلم",
+        "author": "عبد الواحد الآمدي التميمي",
+        "folder": "qurar_alhakm",
+        "parts": 1,
+        "category": "الحديث"
+    },
+    {
+        "id": 195,
+        "title": "طبقات أعلام الشيعة",
+        "author": "آغا بزرك الطهراني",
+        "folder": "tabkat_i3lam_shia",
+        "parts": 17,
+        "category": "رجال الحديث"
+    },
+    {
+        "id": 196,
+        "title": "الزواج المثالي",
+        "author": "ناصر مكارم الشيرازي",
+        "folder": "zawaj_mthaly",
+        "parts": 1,
+        "category": "الأخلاق والعرفان"
+    }  
 ]
