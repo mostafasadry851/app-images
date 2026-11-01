@@ -1702,6 +1702,173 @@
         "folder": "salh_alhasan",
         "parts": 1,
         "category": "السيرة"
+    },
+    {
+        "id": 214,
+        "title": "الأفلاطونية المحدثة عند العرب",
+        "author": "عبد الرحمن بدوي",
+        "folder": "aflaton_and_alarb",
+        "parts": 1,
+        "category": "المنطق والفلسفة"
+    },
+    {
+        "id": 215,
+        "title": "الاتصال بالارواح بين الحقيقة والخيال",
+        "author": "ناصر مكارم الشيرازي",
+        "folder": "alatsal_b_alarwah",
+        "parts": 1,
+        "category": "المنطق والفلسفة"
+    },
+    {
+        "id": 216,
+        "title": "الفتوحات المكية",
+        "author": "ابن عربي",
+        "folder": "alftohat_almkea",
+        "parts": 14,
+        "category": "المنطق والفلسفة"
+    },
+    {
+        "id": 217,
+        "title": "علم الأخلاق إلى نيقوماخوس",
+        "author": "أرسطو",
+        "folder": "alm_ikhlaq_neq",
+        "parts": 2,
+        "category": "المنطق والفلسفة"
+    },
+    {
+        "id": 218,
+        "title": "المنطق",
+        "author": "محمد رضا المظفر",
+        "folder": "almantek_muthfr",
+        "parts": 1,
+        "category": "المنطق والفلسفة"
+    },
+    {
+        "id": 219,
+        "title": "السبع الشداد",
+        "author": "محمد باقر الداماد",
+        "folder": "alsab3_alshdad",
+        "parts": 1,
+        "category": "المنطق والفلسفة"
+    },
+    {
+        "id": 220,
+        "title": "أرسطو طاليس في النفس",
+        "author": "عبد الرحمن بدوي",
+        "folder": "arsto_fe_alnafs",
+        "parts": 1,
+        "category": "المنطق والفلسفة"
+    },
+    {
+        "id": 221,
+        "title": "موسوعة عشائر العراق",
+        "author": "عباس العزاوي المحامي",
+        "folder": "ashar_aliraq",
+        "parts": 4,
+        "category": "التاريخ"
+    },
+    {
+        "id": 222,
+        "title": "أصول الفلسفة",
+        "author": "محمد حسين الطباطبائي",
+        "folder": "asol_alfalsfa",
+        "parts": 1,
+        "category": "المنطق والفلسفة"
+    },
+    {
+        "id": 223,
+        "title": "بداية الحكمة",
+        "author": "محمد حسين الطباطبائي",
+        "folder": "bdaet_alhakma",
+        "parts": 1,
+        "category": "المنطق والفلسفة"
+    },
+    {
+        "id": 224,
+        "title": "فصوص الحكم",
+        "author": "ابن عربي",
+        "folder": "fsos_alhakm",
+        "parts": 2,
+        "category": "المنطق والفلسفة"
+    },
+    {
+        "id": 225,
+        "title": "محك النظر",
+        "author": "الغزالي",
+        "folder": "mahk_alnadher",
+        "parts": 1,
+        "category": "المنطق والفلسفة"
+    },
+    {
+        "id": 226,
+        "title": "نهاية الحكمة",
+        "author": "محمد حسين الطباطبائي",
+        "folder": "nhaeat_alhakma",
+        "parts": 1,
+        "category": "المنطق والفلسفة"
+    },
+    {
+        "id": 227,
+        "title": "نزهة المشتاق في اختراق الآفاق",
+        "author": "الشريف الادريسي",
+        "folder": "nzhat_almshtaq",
+        "parts": 2,
+        "category": "التاريخ"
+    },
+    {
+        "id": 228,
+        "title": "رسائل الشجرة الإلهية",
+        "author": "شمس الدين الشهرزوري",
+        "folder": "rsal_shjra_alahia",
+        "parts": 3,
+        "category": "المنطق والفلسفة"
+    },
+    {
+        "id": 229,
+        "title": "سر الوجود",
+        "author": "ناصر مكارم الشيرازي",
+        "folder": "sar_alwjood",
+        "parts": 1,
+        "category": "المنطق والفلسفة"
+    },
+    {
+        "id": 230,
+        "title": "شرح بداية الحكمة",
+        "author": "السيد كمال الحيدري",
+        "folder": "sharh_bdaeat_hakma",
+        "parts": 2,
+        "category": "المنطق والفلسفة"
+    },
+    {
+        "id": 231,
+        "title": "شرح كتاب المنطق",
+        "author": "السيد كمال الحيدري",
+        "folder": "sharh_ktab_mantek",
+        "parts": 5,
+        "category": "المنطق والفلسفة"
+    },
+    {
+        "id": 232,
+        "title": "تاريخ الطبري",
+        "author": "محمد بن جرير الطبري",
+        "folder": "tarekh_amm_wmlok",
+        "parts": 8,
+        "category": "التاريخ"
+    },
+    {
+        "id": 233,
+        "title": "تاسوعات أفلوطين",
+        "author": "أفلوطين",
+        "folder": "taso3at_aflaton",
+        "parts": 1,
+        "category": "المنطق والفلسفة"
+    },
+    {
+        "id": 234,
+        "title": "تهافت الفلاسفة",
+        "author": "الغزالي",
+        "folder": "thafet_alflasfa",
+        "parts": 1,
+        "category": "المنطق والفلسفة"
     }
-
 ]
