@@ -1614,6 +1614,94 @@
         "folder": "sonn_nasaay",
         "parts": 8,
         "category": "الحديث السني"
+    },
+    {
+        "id": 203,
+        "title": "عين الحياة",
+        "author": "العلامة المجلسي",
+        "folder": "aen_alheat",
+        "parts": 2,
+        "category": "الحديث"
+    },
+    {
+        "id": 204,
+        "title": "أسرار الصلاة",
+        "author": "الشيخ جوادي الآملي",
+        "folder": "asrar_alsalat",
+        "parts": 1,
+        "category": "الأخلاق والعرفان"
+    },
+    {
+        "id": 205,
+        "title": "دمية القصر وعصرة أهل العصر",
+        "author": "علي بن الحسن الباخرزي",
+        "folder": "domeat_alkasr",
+        "parts": 3,
+        "category": "الأخلاق والعرفان"
+    },
+    {
+        "id": 206,
+        "title": "حياة الإمام الحسن بن علي (ع)",
+        "author": "باقر شريف القرشي",
+        "folder": "haeat_imam_hasan",
+        "parts": 2,
+        "category": "السيرة"
+    },
+    {
+        "id": 207,
+        "title": "قصص الإنبياء",
+        "author": "ابن كثير",
+        "folder": "kosas_nabe_kather",
+        "parts": 2,
+        "category": "السيرة"
+    },
+    {
+        "id": 208,
+        "title": "منطق الطير",
+        "author": "فريد الدين النيسابوري",
+        "folder": "mantek_taer",
+        "parts": 1,
+        "category": "الأخلاق والعرفان"
+    },
+    {
+        "id": 209,
+        "title": "من فقه الجنس في قنواته المذهبية",
+        "author": "الشيخ أحمد الوائلي",
+        "folder": "mn_faqh_aljans",
+        "parts": 1,
+        "category": "الأخلاق والعرفان"
+    },
+    {
+        "id": 210,
+        "title": "منازل السائرين",
+        "author": "عبد الله الهروي",
+        "folder": "mnazel_alsaeren",
+        "parts": 1,
+        "category": "الأخلاق والعرفان"
+    },
+    {
+        "id": 211,
+        "title": "رحلة ابن بطوطة",
+        "author": "ابن بطوطة",
+        "folder": "rahlat_btota",
+        "parts": 5,
+        "category": "التاريخ"
+    },
+    {
+        "id": 212,
+        "title": "صحيفة الحسن (ع)",
+        "author": "الشيخ جواد القيومي",
+        "folder": "sahefat_alhasn",
+        "parts": 1,
+        "category": "السيرة"
+    },
+    {
+        "id": 213,
+        "title": "صلح الحسن (ع)",
+        "author": "الشيخ راضي آل ياسين",
+        "folder": "salh_alhasan",
+        "parts": 1,
+        "category": "السيرة"
     }
 
 ]
