@@ -1,9 +1,19 @@
 {
   "enabled": true,
+  "year": 1448,
   "offset": 0,
-  "hijri_year": 1448,
-  "hijri_month": 6,
-  "month_length": 30,
-  "last_updated": "2026-11-02",
-  "note": "اختبار جعل جمادى الاخر 30 يوماً"
+  "corrections": {
+    "1": null,
+    "2": null,
+    "3": null,
+    "4": null,
+    "5": 30,
+    "6": 30,
+    "7": null,
+    "8": null,
+    "9": null,
+    "10": null,
+    "11": null,
+    "12": null
+  }
 }
