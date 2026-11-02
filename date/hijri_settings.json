@@ -1,5 +1,9 @@
 {
+  "enabled": true,
   "offset": 0,
-  "last_updated": "2026-10-1‌3",
-  "note": "تصحيح التاريخ الهجري"
+  "hijri_year": 1448,
+  "hijri_month": 5,
+  "month_length": 29,
+  "last_updated": "2026-11-02",
+  "note": "اختبار جعل جمادى الأولى 29 يوماً"
 }
