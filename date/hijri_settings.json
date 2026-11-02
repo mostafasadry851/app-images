@@ -2,8 +2,8 @@
   "enabled": true,
   "offset": 0,
   "hijri_year": 1448,
-  "hijri_month": 5,
-  "month_length": 29,
+  "hijri_month": 6,
+  "month_length": 30,
   "last_updated": "2026-11-02",
-  "note": "اختبار جعل جمادى الأولى 29 يوماً"
+  "note": "اختبار جعل جمادى الاخر 30 يوماً"
 }
