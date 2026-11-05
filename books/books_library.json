@@ -1571,7 +1571,7 @@
         "id": 197,
         "title": "صحيح البخاري",
         "author": "محمد بن إسماعيل البخاري",
-        "folder": "saheh_bukhary",
+        "folder": "ssaheh_bkhar",
         "parts": 8,
         "category": "الحديث السني"
     },
@@ -1579,7 +1579,7 @@
         "id": 198,
         "title": "صحيح مسلم",
         "author": "مسلم بن الحجاج النيسابوري",
-        "folder": "saheh_muslim",
+        "folder": "ssaheh_moslim",
         "parts": 8,
         "category": "الحديث السني"
     },
@@ -1587,7 +1587,7 @@
         "id": 199,
         "title": "جامع الترمذي",
         "author": "محمد بن عيسى الترمذي",
-        "folder": "jam3_tormthe",
+        "folder": "snn_altormthee",
         "parts": 5,
         "category": "الحديث السني"
     },
@@ -1595,7 +1595,7 @@
         "id": 200,
         "title": "سنن أبي داود",
         "author": "سليمان بن الأشعث السجستاني",
-        "folder": "sonn_abe_dawod",
+        "folder": "snn_abo_dawwd",
         "parts": 2,
         "category": "الحديث السني"
     },
@@ -1603,7 +1603,7 @@
         "id": 201,
         "title": "سنن ابن ماجه",
         "author": "محمد بن يزيد القزويني",
-        "folder": "sonn_abn_maja",
+        "folder": "snn_abn_maaja",
         "parts": 2,
         "category": "الحديث السني"
     },
@@ -1611,7 +1611,7 @@
         "id": 202,
         "title": "سنن النسائي",
         "author": "أحمد بن شعيب النسائي",
-        "folder": "sonn_nasaay",
+        "folder": "snn_alnassae",
         "parts": 8,
         "category": "الحديث السني"
     },
